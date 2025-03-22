@@ -14,12 +14,17 @@ A simple Java application that visualizes stock price data using [XChart](https:
 3. The chart will display in a pop-up window
 
 ## Screenshot
-Coming soon...
+![image](https://github.com/user-attachments/assets/71d35ece-071f-4977-bea2-ea875de519bf)
 
 ## Future Ideas
 - Pull real stock data using an API (e.g., Alpha Vantage, Yahoo Finance)
 - Export chart as image or PDF
 - Add more interactivity
+- 
+## Built With
+- Java 8+
+- Maven
+- [XChart 3.8.5](https://knowm.org/open-source/xchart/)
 
 ---
 
